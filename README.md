@@ -1,7 +1,7 @@
 # Algoritm-trading-Cryptocurrency
 The source code is in Python and covers most of the strategies that use candlestick and indicator principles.
 
-## Rsults
+## Results
 ![result_BolliandBand_ChandlesPattern](https://user-images.githubusercontent.com/113052872/191526718-403d534a-f39f-4257-b67b-9f0efe03d428.png)
 ![result_RSI_MA](https://user-images.githubusercontent.com/113052872/191529396-05e8f62c-225a-4944-aec5-cfc25f67563b.png)
 
