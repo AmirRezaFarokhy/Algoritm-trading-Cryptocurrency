@@ -1,7 +1,7 @@
-# Algoritm-trading-Cryptocurrency
+# Algoritm-trading-Cryptocurrency 🚀
 The source code is in Python and covers most of the strategies that use candlestick and indicator principles.
 
-# Description
+# Description 🕴️
 All the codes except `Visualization.py` are executable files and when you run each one, it uses a specific strategy and gives you output.
 Back-Test of each folder: `Good` folder is ~ 70% wining rate, `Mediem` folder is ~ 60% wining rate, `Bad` folder is ~ 45% wining rate.
 
