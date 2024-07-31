@@ -6,7 +6,6 @@ class ShowEverything:
         self.tick_name = [tick[0] for tick in ticker[int_ticker_trade]]
 
     def PlotEvery(self, df):
-
         fig = plt.figure(figsize=(30,20))
         ax1 = fig.add_subplot(331)
         ax2 = fig.add_subplot(332)
