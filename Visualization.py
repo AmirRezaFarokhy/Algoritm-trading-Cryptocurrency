@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt 
 
+# Create Object to show Charts
 class ShowEverything:
 
     def __init__(self, ticker, int_ticker_trade):
