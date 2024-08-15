@@ -54,7 +54,6 @@ def RSI(df, periods=14, ema=True, col="BTC"):
 	rsi = 100 - (100/(1 + rsi))
 	return rsi
 
-
 def get_Indicators(data, days_MA=200, simple_MA=True):
 	for tick in ticker[INT_TICKER_TRADE]:
 		df[f"{tick[0]}-RSI"] = RSI(df, periods=13, ema=True, col=f"{tick[0]}")
