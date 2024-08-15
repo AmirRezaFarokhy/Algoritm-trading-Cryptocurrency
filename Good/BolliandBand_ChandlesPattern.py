@@ -17,7 +17,6 @@ def split_tickers(SEQ=6):
 
     return lst_ticker
 
-
 def get_data(names):
     main_df = pd.DataFrame()
     for name in names:
