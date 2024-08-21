@@ -5,7 +5,6 @@ The source code is in Python and covers most of the strategies that use candlest
 All the codes except `Visualization.py` are executable files and when you run each one, it uses a specific strategy and gives you output.
 Back-Test of each folder: `Good` folder is ~ 70% wining rate, `Mediem` folder is ~ 60% wining rate, `Bad` folder is ~ 45% wining rate.
 
-
 ## Results
 ![result_BolliandBand_ChandlesPattern](https://user-images.githubusercontent.com/113052872/191526718-403d534a-f39f-4257-b67b-9f0efe03d428.png)
 ![result_RSI_MA](https://user-images.githubusercontent.com/113052872/191529396-05e8f62c-225a-4944-aec5-cfc25f67563b.png)
