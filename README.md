@@ -10,7 +10,6 @@ Back-Test of each folder: `Good` folder is ~ 70% wining rate, `Mediem` folder is
 ![result_BolliandBand_ChandlesPattern](https://user-images.githubusercontent.com/113052872/191526718-403d534a-f39f-4257-b67b-9f0efe03d428.png)
 ![result_RSI_MA](https://user-images.githubusercontent.com/113052872/191529396-05e8f62c-225a-4944-aec5-cfc25f67563b.png)
 
-
 ### Requirements
 Running `Strategy-trading-robot-python` requires:
 * Python 3.7 (tested under Python 3.10.4)
